@@ -24,7 +24,7 @@ Microsoft has imposed an artificial dependency on Edge for Bing Chat, meaning th
 After the extension is installed, you can use Bing AI normally. No extra steps are required.
 
 ## Support and Feedback 🙌
-If you encounter any issues or have any questions about Bing AI for Chromium, please open an issue on the [issues page](https://github.com/academicgit/BingAI-for-Chromium/issues). Your feedback is valuable to us, so if you have any suggestions or ideas for improving the extension, please let us know. You can leave your feedback on the [issues page](https://github.com/academicgit/BingAI-for-Chromium/issues).
+If you encounter any issues or have any questions about Bing AI for Chromium, please open an issue on the [issues page](https://github.com/academicgit/BingAI-for-Chromium/issues). Your feedback is valuable to us, so if you have any suggestions or ideas for improving the extension, please let us know. You can leave your feedback on the [feedback page](https://github.com/academicgit/BingAI-for-Chromium/issues?q=label%3Afeedback).
 
 ## Disclaimer ❗
 Please note that this extension does not allow users to bypass the waitlist for Bing Chat AI. A Microsoft account with access to Bing Chat is still required.
